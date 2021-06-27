@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andreybekh
 - 👀 Frontend dev
 - 🌱 JS, React, Node, Vue, C++
-- 💞️ I’m looking to collaborate on any kind of frontend dev project
+- 💞️ Runner, father, petrolhead, he/his
 - 📫 andreybekh90@gmail.com
 
 <!---
